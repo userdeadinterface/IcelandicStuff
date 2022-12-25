@@ -1,3 +1,3 @@
 # IcelandicStuff
 
-Þetta eru einfaldir kóðar sem eru fyrir íslensku. FelaLjotOrd.py notar Icelandic Taboo Database (https://repository.clarin.is/repository/xmlui/handle/20.500.12537/64).
+Þetta eru einfaldir kóðar sem eru fyrir íslensku. FelaLjotOrd.py notar Ingason, Anton Karl, Lilja Björk Stefánsdóttir og Agnes Sólmundsdóttir. 2020. The Icelandic Taboo Database. Útgáfa 1.0. (https://github.com/antonkarl/iceTaboo)
